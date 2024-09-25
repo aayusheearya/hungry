@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hungry/static/css/main.f3757223.css",
-    "main.js": "/hungry/static/js/main.6f67b7a8.js",
+    "main.js": "/hungry/static/js/main.07586b38.js",
     "index.html": "/hungry/index.html",
     "main.f3757223.css.map": "/hungry/static/css/main.f3757223.css.map",
-    "main.6f67b7a8.js.map": "/hungry/static/js/main.6f67b7a8.js.map"
+    "main.07586b38.js.map": "/hungry/static/js/main.07586b38.js.map"
   },
   "entrypoints": [
     "static/css/main.f3757223.css",
-    "static/js/main.6f67b7a8.js"
+    "static/js/main.07586b38.js"
   ]
 }
