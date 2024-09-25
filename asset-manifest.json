@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/aayusheearya/hungry.git/static/css/main.f3757223.css",
-    "main.js": "/aayusheearya/hungry.git/static/js/main.6f67b7a8.js",
-    "index.html": "/aayusheearya/hungry.git/index.html",
-    "main.f3757223.css.map": "/aayusheearya/hungry.git/static/css/main.f3757223.css.map",
-    "main.6f67b7a8.js.map": "/aayusheearya/hungry.git/static/js/main.6f67b7a8.js.map"
+    "main.css": "/hungry/static/css/main.f3757223.css",
+    "main.js": "/hungry/static/js/main.6f67b7a8.js",
+    "index.html": "/hungry/index.html",
+    "main.f3757223.css.map": "/hungry/static/css/main.f3757223.css.map",
+    "main.6f67b7a8.js.map": "/hungry/static/js/main.6f67b7a8.js.map"
   },
   "entrypoints": [
     "static/css/main.f3757223.css",
